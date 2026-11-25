@@ -1,7 +1,7 @@
 # Full Stack Web-Development Internship
  Task-1
 
-- **Name:**Atul Pandey 
+- **Name:** Atul Pandey 
 - **Company:** Main Craft Technology
 - **Domain:** Full Stack Web-Development
 - **Project Type:** Frontend Website
