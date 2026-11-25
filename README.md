@@ -1,58 +1,24 @@
-# Full Stack Web-Development 
-# Main Craft Technology 🌐
+# Full Stack Web-Development Internship
+ Task-1
 
-### Innovating Today, Building Tomorrow.
-
-## 📌 About the Project
-Main Craft Technology is my first web development project, created using **HTML5 and CSS3**. The main objective of this project is to build a modern, attractive, and responsive technology-based website.
-
-The website represents a technology platform focused on innovation, digital solutions, and modern technologies.
-
-## 🛠️ Technologies Used
-- **HTML5** – For website structure and content.
-- **CSS3** – For styling, layouts, colors, animations, and responsive design.
-- **Font Awesome** – For social media and technology icons.
-
-## ✨ Key Features
-- Modern and attractive navigation bar.
-- Hero section with a welcome message.
-- About Us section.
-- Technology-based services section.
-- Why Choose Us section.
-- Contact section.
-- Professional footer with social media icons.
-- Hover effects and responsive design.
-- Dark blue and cyan color theme.
-
-## 📂 Project Structure
-```text
-Main-Craft-Technology/
-│
-├── index.html
-└── style.css
-```
-
-##  Project Objective
-The objective of this project is to understand the fundamentals of web development and gain practical experience in creating and styling a website using HTML and CSS.
-
-##  What I Learned
-- Writing HTML structure.
-- Using CSS selectors and properties.
-- Working with Flexbox and CSS Grid.
-- Creating responsive layouts using media queries.
-- Adding hover effects and styling elements.
-- Organizing project files.
-
-## Future Improvements
-- Add JavaScript functionality.
-- Create a working contact form.
-- Improve mobile navigation.
-- Add more interactive features.
-
-## Project Status
-**Completed – First Web Development Task**
-
-This project marks the beginning of my web development journey. More projects and improvements are coming soon!
-
----
-⭐ If you like this project, feel free to explore and share your feedback.
+- **Project Name:** Main Craft Technology
+- **Company:** Main Craft Technology
+- **Domain:** Web Development
+- **Project Type:** Frontend Website
+- **Task:** First Web Development Task
+- **Technologies Used:** HTML5, CSS3
+- **Files Used:**
+  - `index.html` – Website structure and content
+  - `style.css` – Website styling and layout
+- **Key Sections:**
+  - Navigation Bar
+  - Home / Hero Section
+  - About Us
+  - Our Services
+  - Why Choose Us
+  - Contact Us
+  - Footer with Social Media Icons
+- **Design:** Modern Dark Blue and Cyan Theme
+- **Features:** Responsive Layout, Hover Effects, CSS Flexbox and Grid
+- **Project Status:** Completed
+- **Purpose:** Learning and Practicing Frontend Web Development
