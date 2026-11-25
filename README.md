@@ -1,9 +1,9 @@
 # Full Stack Web-Development Internship
  Task-1
 
-- **Project Name:** Main Craft Technology
+- **Name:**Atul Pandey 
 - **Company:** Main Craft Technology
-- **Domain:** Web Development
+- **Domain:** Full Stack Web-Development
 - **Project Type:** Frontend Website
 - **Task:** First Web Development Task
 - **Technologies Used:** HTML5, CSS3
